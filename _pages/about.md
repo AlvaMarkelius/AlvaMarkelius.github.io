@@ -11,9 +11,9 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Photo: Berk Yazar</p>
-    <p>Seoul National University Campus</p>
-    <p>S. Korea 2022</p>
+    <p>   Photo: Berk Yazar</p>
+    <p>   Seoul National University Campus</p>
+    <p>   S. Korea 2022</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts

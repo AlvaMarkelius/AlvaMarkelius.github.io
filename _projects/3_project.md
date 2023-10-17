@@ -4,7 +4,7 @@ title: human/robot mutual learning
 description: EUTOPA funded project on developmental robotics, mutual learning and differential outcomes training
 img: assets/img/7.jpg
 importance: 1
-category: work
+category: current
 ---
 
 Every project has a beautiful feature showcase page.

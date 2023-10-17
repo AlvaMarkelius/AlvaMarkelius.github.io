@@ -1,7 +1,7 @@
 ---
 layout: page
-title: STINT Humanoid Robots Feedback Design
-description: a collaboration with Koç University 
+title: STINT humanoid robots
+description: Humanoid robots feedback design research collaboration with Koç University 
 img: assets/img/3.jpg
 importance: 2
 category: current

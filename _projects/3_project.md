@@ -1,10 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: human/robot mutual learning
+description: EUTOPA funded project on developmental robotics, mutual learning and differential outcomes training
 img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
+importance: 1
 category: work
 ---
 

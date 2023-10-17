@@ -1,11 +1,11 @@
 ---
 layout: page
-title: JNPD Neurodegenerative Disease Research Network
-description: a project with a background image
+title: FORTE JNPD 
+description: Neurodegenerative Disease Research Network
 img: assets/img/12.jpg
-importance: 1
+importance: 3
 category: current
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications: 
 ---
 
 Every project has a beautiful feature showcase page.

@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Alva Markelius
     - name: Date of Birth
-      value: 14th March 1879
+      value: 
     - name: Languages
-      value: English, German
+      value: Swedish, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Cognitive Science BSc
+      institution: University of Gothenburg, Sweden
+      year: 2022
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +21,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Exchange year Artificial Intelligence profile
+      institution: Seoul National University, S. Korea
+      year: 2022
       description:
         - Description 1.
         - Description 2.
@@ -31,22 +31,22 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Commissioned Researcher
+      institution: DICE Lab, University of Gothenburg
+      year: 2022-2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Part of STINT initiation grant funded project between the University of Gothenburg and Koç University researching humanoid social robotics, affective computing and digitalised gamified cognitive interventions. 
+        - title: Brain+
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Researching human/robot interaction and gamified therapeutics for cognitive interventions for Danish Brain+.
+    - title: Research Assistant
+      institution: RECOG-AI Leverhulme Centre for the Future of Intelligence
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Research assistant in the Kinds of Intelligence project RECOG-AI specifically aimed at a robust conceptual and methodological framework for benchmarking evaluation of cognitive capabilities and generality in AI.
+        - Specifically worked with task development for training AI agents in a novel and unique cognitive approach
+          for learning affordances and object understanding.
+
 
     - title: Director
       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
@@ -71,13 +71,11 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+        - Nova 111 Student List 2023
+        - one of the 111 young people with most potential in Sweden (Mathematics, Data, and Analytics)
+
 
 - title: Academic Interests
   type: nested_list

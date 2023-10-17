@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
+title: EUTOPIA Mechanism of Emotion course
 description: another without an image
 img:
 importance: 3
-category: fun
+category: past
 ---
 
 Every project has a beautiful feature showcase page.

@@ -20,4 +20,4 @@ nav_order: 5
 **Science Festival Gothenburg** – AI, Robotics and Science Fiction, Gothenburg, Sweden (2020)
 
 
-![](ken.jpg)
+<img src="/assets/img/ken.png" alt="image" width="300" height="auto">

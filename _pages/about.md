@@ -25,3 +25,7 @@ social: true  # includes social icons at the bottom of the page
 I am a AI Ethics & Society MSt student at the Leverhulme Centre for the future of intelligence at the University of Cambridge. I am also a research assistant at the <a href="https://dice-r-lab.com/">DICE - lab</a> at the Institution for Applied IT, University of Gothenburg. Find my publications at my [publications page](/al-folio/publications/). 
 
 My main research interests are the ethics of social AI and robotics, embodied cognition, affect and emotion, gender and intersectionality, global AI narratives and imaginaries.
+
+I am also president of Cambridge University AI Ethics Society - a student run society aimed at creating a space to critically explore how AI and emerging technologies can best secure and further the ideals of social justice and democracy at local, national, and international scales.
+
+I obtained my bachelor degree in cognitive science at the University of Gothenburg and Seoul National University where I specialised in AI and robotics. 

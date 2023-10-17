@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: AI affordance understanding
+description: RECOG AI Robust Evaluation of Cognitive Capabilities and Generality in Artificial Intelligence. 
 img: assets/img/1.jpg
-importance: 3
-category: fun
+importance: 1
+category: past
 ---
 
 Every project has a beautiful feature showcase page.

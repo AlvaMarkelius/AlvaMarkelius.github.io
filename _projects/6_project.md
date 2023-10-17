@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: 배아 간 하고 XAI
+description: Fair data generation w/ GAN and explainable AI for unbiased classification
 img:
 importance: 4
-category: fun
+category: past
 ---
 
 Every project has a beautiful feature showcase page.

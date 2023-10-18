@@ -2,7 +2,7 @@
 layout: page
 title: 배아 간 하고 XAI
 description: Fair data generation w/ GAN and explainable AI for unbiased classification
-img:
+img: assets/img/face.jpg
 importance: 4
 category: past
 ---

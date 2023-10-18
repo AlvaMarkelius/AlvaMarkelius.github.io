@@ -13,7 +13,6 @@ I am part of the FORTE JNPD funded Neurodegenerative Disease Research Network as
 The project is run by members of the <a href="https://dice-r-lab.com/">DICE - lab</a> at the Institution for Applied IT, University in Gothenburg, Sweden and in close collaboration with University of Almería, Spain. 
 
 
-</div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}

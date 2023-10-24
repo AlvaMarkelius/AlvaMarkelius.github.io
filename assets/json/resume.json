@@ -114,9 +114,16 @@
   "awards": [
     {
       "title": "Nova 111 Student List 2023",
-      "date": "2022-06-01",
+      "date": "2023-06-01",
       "awarder": "Nova Talent Network Sweden",
       "summary": "Selected as one of the 111 young people with most potential in Sweden (Mathematics, Data, and Analytics)."
+    },
+
+    {
+      "title": "Career Stipend - Student",
+      "date": "2022-05-01",
+      "awarder": "Karriärföretagen",
+      "summary": "Alva Markelius studerar kognitionsvetenskap med inriktning mot artificiell intelligens och robotik vid Göteborgs universitet, när hon tar emot stipendiet läser hon sista termin vid Seol National University. Hon jobbar också extra i ett labb där man forskar inom robotik, VR och interaktionen mellan människa och robot. För Alva är det viktigt att använda AI-tekniken rätt och i framtiden vill hon jobba för en arbetsgivare som har en förankring i både forskning och industri, gärna i en internationell miljö. Hon vill också jobba vidare med etiska aspekter och riktlinjer för teknik. Alva sökte Karriärstipendiet för att kunna studera en masterutbilning utomlands, och vi är övertygade om att hon kommer lyckas med sina studier och framtida karriär."
     }
   ],
   "certificates": [],

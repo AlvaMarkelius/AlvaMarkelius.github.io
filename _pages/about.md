@@ -26,6 +26,6 @@ I am an AI Ethics & Society MSt student at the Leverhulme Centre for the Future 
 
 My main research interests are the ethics of social AI and robotics, embodied cognition, affect and emotion, gender and intersectionality, global AI narratives and imaginaries.
 
-I am also president of <a href="https://camtechandsociety.wixsite.com/aiethicssociety">Cambridge University AI Ethics Society</a> - a student run society aimed at creating a space to critically explore how AI and emerging technologies can best secure and further the ideals of social justice and democracy at local, national, and international scales. Furthermore, I am part of the <a href="https://www.chia.cam.ac.uk/">Centre for Human Inspired AI</a> Early Career Community Committee. 
+I am also president of <a href="https://cuaiethics.com/">Cambridge University AI Ethics Society</a> - a student run society aimed at creating a space to critically explore how AI and emerging technologies can best secure and further the ideals of social justice and democracy at local, national, and international scales. Furthermore, I am part of the <a href="https://www.chia.cam.ac.uk/">Centre for Human Inspired AI</a> Early Career Community Committee. 
 
 I obtained my bachelor degree in cognitive science at the University of Gothenburg and Seoul National University where I specialised in AI and robotics. 

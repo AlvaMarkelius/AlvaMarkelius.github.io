@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have been selected President of <a href="https://camtechandsociety.wixsite.com/aiethicssociety">Cambridge University AI Ethics Society</a>  (former Tech and Society) and leaving my duties as Secretary and Events Officer. 
+I have been selected President of <a href="https://cuaiethics.com/">Cambridge University AI Ethics Society</a>  (former Tech and Society) and leaving my duties as Secretary and Events Officer. 

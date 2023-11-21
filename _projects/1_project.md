@@ -15,11 +15,11 @@ The project is run by members of the <a href="https://dice-r-lab.com/">DICE - la
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/5.jpg" title="forte" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    The first network physical workshop took place in Almería, Spain October 2023.
+    The first network physical workshop took place in Almería, Spain October 2023 and the second one in Gothenburg, Sweden November 2023.
 </div>
 
 

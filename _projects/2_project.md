@@ -4,7 +4,7 @@ title: SARP-DCI
 description: Socially Affective Robots for Digitized Cognitive Interventions 
 img: assets/img/3.jpg
 importance: 2
-category: current
+category: past
 ---
 
 This project is part of the DICE-lab at the Institution of Applied IT at the University of Gothenburg and looks to investigate the effects of a social robot partner, which adapts its behaviours and interactions based on a human partner’s affective and emotional states, on the long-term viability (acceptance, adherence, motivation, efficacy) of digitised cognitive training therapy. In combination with interactions with a social robot and a cognitive training task, this project seeks to find out: (1) the optimal combination of multimodal signals that can best capture a user’s affective/emotional states, particularly when interacting with these tools, (2) the effects of real-time adaptation of these technologies (robot interactions, characteristics of training tasks) based on these affective states on various behavioural and performance measures and (3) the viability of this approach in pre-clinical populations with Mild Cognitive Impairments.

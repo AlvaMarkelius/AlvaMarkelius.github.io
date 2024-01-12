@@ -8,9 +8,9 @@ nav_order: 5
 ---
 
 #### Talks: 
-
-**Cambridge AI Ethics Society x Centre for Human Inspired AI (CHIA) Early Career Community** – Early Career EI Ethics Workshop (2023)  
-**Centre for Human Inspired AI (CHIA) Early Career Community** – My research in Social Humanoid Assistive Affective Robotics for Cognitive Interventions (2023)   
+**Mindshop Knowledge Society Cognitive Science Course** – Seminar and talk about cognitive science, AI and robotics (2023)  
+**Cambridge AI Ethics Society x Centre for Human Inspired AI (CHIA) Early Career Community** – Early Career AI Ethics Workshop, Cambridge, UK (2023)  
+**Centre for Human Inspired AI (CHIA) Early Career Community** – Social Humanoid Assistive Affective Robotics for Cognitive Interventions, Cambridge, UK (2023)   
 **Sweco IT Sweden** – AI Ethics and Responsibility, Stockholm, Sweden (2023)  
 **Microsoft Share & Evolve Sweden** – AI Ethics and Responsibility, Stockholm, Sweden (2023)  
 **Oxbridge Robotics Summer School** – Robotics and Ethics, Cambridge, UK (2023)  

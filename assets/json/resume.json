@@ -6,7 +6,7 @@
     "email": "ajkm4@cam.ac.uk",
     "phone": "+447707966219",
     "url": "https://alvamarkelius.github.io",
-    "summary": "A highly driven and ambitious cognitive science and social robotics student and research engineer with a multidisciplinary social sciences and technological background. Deeply fascinated by the relationship between human cognition and AI and robotics, and in particular of emotion, anthropomorphism, gender and embodiment.",
+    "summary": "Highly driven and ambitious Cambridge University AI Ethics & Society MSt student, Social Robotics Research Engineer, Top 100 Brilliant Women in AI Ethics™ 2024 and President of Cambridge University AI Ethics Society. Deeply fascinated by social robotics, the relationship between human cognition and AI and global socio-technical systems and narratives.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -31,8 +31,8 @@
       "endDate": "-",
       "summary": "Currently working as research engineer in the I-AIMS project aimed at investigating how to enhance safety and well-being of drivers using a combination of biometric driver monitoring and vocalised feedback from a large language model. Previosly worked as part of STINT initiation grant funded project between the University of Gothenburg and Koç University researching humanoid social robotics, affective computing and digitalised gamified cognitive interventions. Have also been researching human/robot interaction and gamified therapeutics for cognitive interventions for Danish Brain+.",
       "highlights": [
-        "I-AIMS project",
-        "ACTNOW project"
+        "I-AIMS project: LLMs, autonomous vehicles and driver monitoring.",
+        "ACTNOW project: digitalised cognitive interventions"
       ]
     },
     {
@@ -59,7 +59,8 @@
     }
 
   ],
-  "volunteer": [],
+  "volunteer": [
+  ],
   "education": [
     {
       "institution": "University of Cambridge, Lucy Cavendish College",

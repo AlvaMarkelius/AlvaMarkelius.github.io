@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I am an AI Ethics & Society MSt student at the Leverhulme Centre for the Future of Intelligence at the University of Cambridge. I am also a research engineer at the <a href="https://dice-r-lab.com/">DICE - lab</a> at the Institution for Applied IT, University of Gothenburg and recipient of 100 Brilliant Women in AI Ethics™ award 2024. 
+I am an AI Ethics & Society MSt student at the <a href= "http://lcfi.ac.uk/" >Leverhulme Centre for the Future of Intelligence</a> at the University of Cambridge. I am also a research engineer at the <a href="https://dice-r-lab.com/">DICE - lab</a> at the Institution for Applied IT, University of Gothenburg and recipient of 100 Brilliant Women in AI Ethics™ award 2024. 
 
 My main research interests are the ethics of social AI and robotics, embodied cognition, affect and emotion, gender and intersectionality, global AI narratives and socio-technical imaginaries.
 

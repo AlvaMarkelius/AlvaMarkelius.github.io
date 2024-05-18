@@ -17,13 +17,3 @@ The empirical study was a qualitative co-design and interaction study with nine 
 Image: Abstract microscopic photography of a Graphics Processing Unit resembling a satellite image of a big city <span><a href="https://www.flickr.com/photos/130561288@N04/">Fritzchens Fritz</a> / <a href="https://www.betterimagesofai.org">Better Images of AI</a> / GPU shot etched 5 / <a href="https://creativecommons.org/licenses/by/4.0/">Licenced by CC-BY 4.0</a></span>
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/fu2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Picture from the data collection of the study, Institution for Applied IT, University of Gothenburg, Sweden
-</div>
-
-

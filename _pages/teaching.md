@@ -7,6 +7,9 @@ nav: true
 nav_order: 5
 ---
 
+#### Podcasts:
+**Mindshop Knowledge Society Podcast** – discussion on AI ethics, feminism, social robotics and design justice <a href="https://www.youtube.com/watch?v=MdC5kKccYHc">link</a>
+
 #### Talks: 
 **Mindshop Knowledge Society Cognitive Science Course** – Seminar and talk about cognitive science, AI and robotics (2023)  
 **Cambridge AI Ethics Society x Centre for Human Inspired AI (CHIA) Early Career Community** – Early Career AI Ethics Workshop, Cambridge, UK (2023)  
@@ -21,6 +24,10 @@ nav_order: 5
 **EQUALS EU** – Whose Digital Future? Gender, Rights, Inclusion, and Exclusion, Geneva, Switzerland (2023)  
 **Nordic China Startup Forum** – AI Trends, Business and Female Leadership, Online (2022)  
 **Science Festival Gothenburg** – AI, Robotics and Science Fiction, Gothenburg, Sweden (2020)
+
+#### Press:
+**#IamthefutureofAI - interview** – By Top Women in AI Ethics on Medium <a href="https://medium.com/women-in-ai-ethics/iamthefutureofai-alva-markelius-626257f51ca4">link</a>
+**Dagens Industri - interview (Swedish)** – After receiving the career stipend <a href="https://karriarforetagen.se/vinnare-av-karriarstipendiet-student/">link</a>
 
 
 <img src="/assets/img/ken.jpg" alt="image" width="300" height="auto">

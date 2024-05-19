@@ -22,10 +22,10 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I am an AI Ethics & Society MSt student at the <a href= "http://lcfi.ac.uk/" >Leverhulme Centre for the Future of Intelligence</a> at the University of Cambridge. I am also a research engineer at the <a href="https://dice-r-lab.com/">DICE - lab</a> at the Institution for Applied IT, University of Gothenburg and recipient of 100 Brilliant Women in AI Ethics™ award 2024. 
+I am an AI Ethics & Society MSt student at the <a href= "http://lcfi.ac.uk/" >Leverhulme Centre for the Future of Intelligence</a> at the University of Cambridge. I am also a research engineer at the <a href="https://dice-r-lab.com/">DICE - lab</a> at the Institution for Applied IT, University of Gothenburg and recipient of Top 100 Brilliant Women in AI Ethics™ award 2024. 
 
 My main research interests are the ethics of social AI and robotics, embodied cognition, affect and emotion, gender and intersectionality, global AI narratives and socio-technical imaginaries.
 
-I am also president of <a href="https://cuaiethics.com/">Cambridge University AI Ethics Society</a> - a student run society aimed at creating a space to critically explore how AI and emerging technologies can best secure and further the ideals of social justice and democracy at local, national, and international scales. Furthermore, I am part of the <a href="https://www.chia.cam.ac.uk/">Centre for Human Inspired AI</a> Early Career Community Committee and young leaders chair of <a href="https://icsr2024.dk/" >16th International Conference on Social Robotics 2024.</a>
+I am also president of <a href="https://cuaiethics.com/">Cambridge University AI Ethics Society</a> - a student run society aimed at creating a space to critically explore how AI and emerging technologies can best secure and further the ideals of social justice and democracy at local, national, and international scales. Furthermore, I am part of the <a href="https://www.chia.cam.ac.uk/">Centre for Human Inspired AI</a> Early Career Community Committee, young leaders chair of <a href="https://icsr2024.dk/" >16th International Conference on Social Robotics 2024.</a> and student steward for <a href="https://betterimagesofai.org/" >Better Images of AI.</a>
 
 I obtained my bachelor degree in cognitive science at the University of Gothenburg and Seoul National University where I specialised in AI and robotics. 

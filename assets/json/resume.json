@@ -60,6 +60,42 @@
 
   ],
   "volunteer": [
+    {
+      "position" : "President",
+      "organisation" : "Cambridge University AI Ethics Society",  
+      "startDate": "2022-10-01",
+      "summary" : "Previously Secretery and Events Officer."  
+    },
+
+    {
+      "position" : "Young Leaders Chair",
+      "organisation" : "International Conference on Social Robotics 2024",  
+      "startDate": "2024-02-01",
+      "summary" : "The 16th International Conference on Social Robotics bring together researchers and practitioners working on the interaction between humans and intelligent robots and on the integration of social robots into our society."  
+    },
+
+    {
+      "position" : "Early Career Committee Member",
+      "organisation" : "Cambridge University Centre for Human Inspired AI",  
+      "startDate": "2023-09-30",
+      "summary" : "CHIA brings together an interdisciplinary community of researchers to investigate the innovative ways in which human and machine intelligence can be combined to yield AI which is capable of contributing to social and global progress."  
+    },
+
+    {
+      "position" : "Student Steward",
+      "organisation" : "Better Images of AI",  
+      "startDate": "2024-05-01",
+      "summary" : "We aim to create a new repository of better images of AI that anyone can use and to mitigate current dominant images of AI that reinforce dangerous misconceptions, and limit the public understanding of the current use and workings of AI systems, their potential and implications."  
+    }, 
+
+    {
+      "position" : "Board Member",
+      "organisation" : "Nature and Youth Sweden (Fältbiologerna)",  
+      "startDate": "2014-05-01",
+      "endDate": "2016-08-24",
+      "summary" : "Sweden's largest youth organisation for environment and climate change, where I, among other things, organised a trip to Paris for young people to attend COP21 and have a platform making their voice heard in the discourse around climate."  
+    }
+
   ],
   "education": [
     {

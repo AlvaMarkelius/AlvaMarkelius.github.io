@@ -5,7 +5,7 @@ description: Should Large Language Models be Embodied in Social Robotics? Identi
 img: assets/img/gpu.jpg
 importance: 2
 category: current
-related_publications: 
+related_publications: prediss
 ---
 
 My dissertation project at the University of Cambridge has turned into a larger research project, with both theoretical and empirical methodologies. The following is an abstract of the research:

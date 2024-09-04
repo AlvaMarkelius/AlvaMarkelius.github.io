@@ -5,7 +5,7 @@ description: EUTOPA funded project on developmental robotics, mutual learning an
 img: assets/img/7.jpg
 importance: 1
 category: past
-related publications: markelius_lan
+related_publications: markelius_lan
 ---
 
 The research is a collaboration between the DICE-lab at University of Gothenburg (GU) and the ETIS lab at Cergy CY Université which was initiated via EUTOPIA’s Undergraduate Research Support Scheme EURSS which was granted to Alva Markelius and Sofia Sjöberg spring 2022. The project was developed by the combination and collaboration of the GU expertise in Differential Outcomes Training (DOT) and human robot interaction, and the Cergy CY expertise in robot language development and robot/caregiver interaction. In June 2022 we visited the ETIS lab at Cergy to develop the mutual learning interaction setup with the robot Reachy (Pollen robotics). In August later that year the setup was piloted with 6 participants in Sweden. 

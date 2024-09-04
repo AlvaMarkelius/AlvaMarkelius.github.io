@@ -5,6 +5,7 @@ description: RECOG AI Robust Evaluation of Cognitive Capabilities and Generality
 img: assets/img/1.jpg
 importance: 1
 category: past
+related_publications: aff
 ---
 The background of this project lies in meeting the need for validity in evaluation of AI cognitive capabilities, such as object permanence and affordance understanding. The current lack of validity generates a large disparity between the “hype” of AI achievement and the reality, and contributes to a feeling of distrust about what AI is really capable of. It also makes it difficult to predict the potential operational applications of AI in the future. This project takes a new approach to AI evaluation and benchmarking, drawing inspiration from cognitive science. It developed a novel conceptual and methodological framework for evaluating AI capabilities that offers consistency, comprehensiveness, and robustness. The primary objective is to create a robust evaluation framework and benchmarking system capable of assessing AI's cognitive capabilities both in the present and in the long term. The overarching goal is to establish a methodology that can be adopted by others to assess the robustness of cognitive capabilities in artificial systems.
 

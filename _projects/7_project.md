@@ -4,7 +4,7 @@ title: I-AIMS
 description: Impairment-Aware Intelligent Mobility System
 img: assets/img/11.jpg
 importance: 2
-category: current
+category: past
 related_publications: 
 ---
 

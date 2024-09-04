@@ -6,7 +6,7 @@
     "email": "ajkm4@cam.ac.uk",
     "phone": "+447707966219",
     "url": "https://alvamarkelius.github.io",
-    "summary": "Highly driven and ambitious Cambridge University AI Ethics & Society MSt student, Social Robotics Research Engineer, Top 100 Brilliant Women in AI Ethics™ 2024 and President of Cambridge University AI Ethics Society. Deeply fascinated by social robotics, the relationship between human cognition and AI and global socio-technical systems and narratives.",
+    "summary": "Highly driven and ambitious Cambridge University PhD candidate, Top 100 Brilliant Women in AI Ethics™ 2024 and President of Cambridge University AI Ethics Society. Deeply fascinated by social robotics, the relationship between human cognition and AI and global socio-technical systems and narratives.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -47,14 +47,14 @@
       ]
     },
     {
-      "name": "AI Lab Sweden AB",
-      "position": "AI and Robotics Ethics Consultant",
-      "url": "http://ailabbet.com/",
-      "startDate": "2022-09-01",
+      "name": "EthicAI",
+      "position": "Founder and Consultant",
+      "url": "http://ethicai.net/",
+      "startDate": "2024-07-01",
       "endDate": "-",
-      "summary": "Consulting clients about ethical approaches to AI innovation, development and deployment in light of current and relevant regulations, frameworks and principles for responsible AI. Focus on diversity, inclusion and responsible AI.",
+      "summary": "",
       "highlights": [
-        "Gave talk at Microsoft Share & Evolve Sweden on AI Ethics and Responsibility"
+        
       ]
     }
 

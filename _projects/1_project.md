@@ -5,7 +5,7 @@ description: Neurodegenerative Disease Research Network
 img: assets/img/12.jpg
 importance: 3
 category: past
-related_publications: 
+related_publications: DOP
 ---
 
 I am part of the FORTE JNPD funded Neurodegenerative Disease Research Network as a research assistant and organiser. The aim of this project is to devise a methodological framework for using digital technology for digitized cognitive-psychosocial therapy and interventions for persons with MCI/dementia. Furthermore, these interventions are focused specifically on differential outcomes training and attentional control protocols. 

@@ -8,7 +8,8 @@ nav_order: 5
 ---
 
 #### Podcasts:
-**Mindshop Knowledge Society Podcast** – discussion on AI ethics, feminism, social robotics and design justice <a href="https://www.youtube.com/watch?v=MdC5kKccYHc">link</a>
+**Cambridge Student Podcast** – discussion on AI ethics, human rights and my work as President of Cambridge University AI Ethics Society  <a href="https://www.youtube.com/watch?v=MdC5kKccYHc">link</a>  
+**Mindshop Knowledge Society Podcast** – discussion on AI ethics, feminism, social robotics and design justice <a href="https://open.spotify.com/episode/3ZF0zKX1m9MteD0fUiiekL?si=25d44c6b245b4d0e">link</a>
 
 #### Talks: 
 **ACII International Conference on Affective Computing & Intelligent Interaction** – Keynote and panellist at workshop From Lab to Life, Glasgow, Scotland (2024)  

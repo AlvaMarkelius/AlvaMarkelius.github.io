@@ -23,5 +23,8 @@ As part of the project, we have both qualitatively (i.e., by conducting intervie
         {% include figure.html path="assets/img/pep2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<div class="caption">
+    Photos from the interaction studies with Pepper conducted in King's College, Cambridge. Right photo: Mark Box <a href="https://www.instagram.com/humanofcambridge/">@humanofcambridge</a> 
+</div>
 
 

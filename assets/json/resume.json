@@ -28,7 +28,6 @@
       "endDate": "-",
       "summary": "Founding team member, senior consultant and lead product engineer at global ethical AI advisory firm that working with clients to build trust in AI solutions by empowering organizations to develop and deploy innovative and ethical artificial intelligence. Our approach focuses on managing risk and reducing social and environmental harms associated with AI technologies.",
       "highlights": [
-        
       ]
     },
 
@@ -38,8 +37,12 @@
       "url": "https://www.cst.cam.ac.uk/people/ajkm4",
       "startDate": "2024-10-01",
       "endDate": "-",
-      "summary": "Member of King's College. PhD researcher at the Department of Computer Science & Technology, Affective Intelligence and Robotics Laboratory under the supervision of Professor Hatice Gunes. ",
+      "summary": "PhD researcher at the Department of Computer Science & Technology, Affective Intelligence and Robotics Laboratory under the supervision of Professor Hatice Gunes. ",
       "highlights": [
+        "Member of King's College",
+        "Member of Cambridge University Polo Club",
+        "Member of Cambridge University Scandinavian Society",
+        "Chair Centre for Human Inspired Technology Early Career Committee"
       ]
     }
 
@@ -49,6 +52,7 @@
       "position" : "President",
       "organization" : "Cambridge University AI Ethics Society",  
       "startDate": "2022-10-01",
+      "endDate": "2024-08-30",
       "summary" : "Previously Secretery and Events Officer."  
     },
 

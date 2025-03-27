@@ -10,9 +10,7 @@ related_publications: DOP
 
 I am part of the FORTE JNPD funded Neurodegenerative Disease Research Network as a research assistant and organiser. The aim of this project is to devise a methodological framework for using digital technology for digitized cognitive-psychosocial therapy and interventions for persons with MCI/dementia. Furthermore, these interventions are focused specifically on differential outcomes training and attentional control protocols. 
 
-The project is run by members of the <a href="https://dice-r-lab.com/">DICE - lab</a> at the Institution for Applied IT, University in Gothenburg, Sweden and in close collaboration with University of Almería, Spain. The final framework paper is called "DigiDOP: A Framework for Applying Digital Technology to the Differential Outcomes Procedure (DOP) for Cognitive Interventions in Persons with Neurocognitive Disorders".
-
-heys
+The project is run by members of the <a href="https://dice-r-lab.com/">DICE - lab</a> at the Institution for Applied IT, University in Gothenburg, Sweden and in close collaboration with University of Almería, Spain. The final framework paper is called "DigiDOP: A Framework for Applying Digital Technology to the Differential Outcomes Procedure (DOP) for Cognitive Interventions in Persons with Neurocognitive Disorders".s
 
 
 <div class="row">

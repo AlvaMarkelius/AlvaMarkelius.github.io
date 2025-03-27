@@ -2,7 +2,7 @@
 layout: page
 title: Social Robots and Disability 
 description: Stakeholder Perspectives on Whether and How Technology, AI and Robots Can Help for Mediation and Advocacy for Students with Disabilities
-img: assets/img/pep.jpg
+img: assets/img/pep.jpeg
 importance: 1
 category: current
 related_publications: R4D
@@ -17,7 +17,7 @@ As part of the project, we have both qualitatively (i.e., by conducting intervie
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/pep.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/pep.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/pep2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}

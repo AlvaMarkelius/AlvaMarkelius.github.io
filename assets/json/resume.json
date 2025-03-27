@@ -1,12 +1,12 @@
 {
+
   "basics": {
-    "name": "Alva Markelius",
+    "name": "",
     "label": "",
     "image": "cv.JPG",
-    "email": "ajkm4@cam.ac.uk",
-    "phone": "+447707966219",
-    "url": "https://alvamarkelius.github.io",
-    "summary": "Highly driven and ambitious Cambridge University PhD candidate, Top 100 Brilliant Women in AI Ethics™ 2024 and President of Cambridge University AI Ethics Society. Deeply fascinated by social robotics, the relationship between human cognition and AI and global socio-technical systems and narratives.",
+    "email": "",
+    "url": "",
+    "summary": "",
     "location": {
       "address": "",
       "postalCode": "",
@@ -14,6 +14,8 @@
       "countryCode": "UK",
       "region": ""
     },
+
+
     "profiles": [
       {
         "network": "",

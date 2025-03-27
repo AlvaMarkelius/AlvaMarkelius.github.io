@@ -12,6 +12,8 @@ I am part of the FORTE JNPD funded Neurodegenerative Disease Research Network as
 
 The project is run by members of the <a href="https://dice-r-lab.com/">DICE - lab</a> at the Institution for Applied IT, University in Gothenburg, Sweden and in close collaboration with University of Almería, Spain. The final framework paper is called "DigiDOP: A Framework for Applying Digital Technology to the Differential Outcomes Procedure (DOP) for Cognitive Interventions in Persons with Neurocognitive Disorders".
 
+heys
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

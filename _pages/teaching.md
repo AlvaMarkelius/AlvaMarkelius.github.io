@@ -30,6 +30,8 @@ nav_order: 5
 **Science Festival Gothenburg** – AI, Robotics and Science Fiction, Gothenburg, Sweden (2020)
 
 #### Press:
+**ITV News Anglia** – Interviewed in local news about social robot companions and robot pets (2025)  
+**Cambridge Edition - Interview with a Robot** – Interviewed together with robot Furhat about the Cambridge Festival <a href="https://online.bright-publishing.com/view/90493998/20/">link</a> (2025)  
 **Study With Me - Eleonora Svanberg (Swedish)** – Featured in book about mathematics, physics, equality and STEM <a href="https://www.bokus.com/bok/9789189733633/study-with-me-sa-bygger-du-matematiskt-sjalvfortroende/">link</a> (2024)  
 **#IamthefutureofAI - interview** – By Women in AI Ethics on Medium <a href="https://medium.com/women-in-ai-ethics/iamthefutureofai-alva-markelius-626257f51ca4">link</a> (2024)\
 **Dagens Industri - interview (Swedish)** – After receiving the career stipend <a href="https://karriarforetagen.se/vinnare-av-karriarstipendiet-student/">link</a> (2022)

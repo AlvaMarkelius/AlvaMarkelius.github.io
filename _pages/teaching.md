@@ -8,12 +8,12 @@ nav_order: 5
 ---
 
 #### Podcasts:
-**Sangre y Suerte Podcast** – The Inevitable SOCIAL ROBOTS That Are Changing the WORLD  <a href="https://www.youtube.com/watch?v=m1-rgrRpc2I">link</a>. 
+**Sangre y Suerte Podcast** – The Inevitable SOCIAL ROBOTS That Are Changing the WORLD  <a href="https://www.youtube.com/watch?v=m1-rgrRpc2I">link</a>.  
 **Cambridge Student Podcast** – discussion on AI ethics, human rights and my work as President of Cambridge University AI Ethics Society  <a href="https://open.spotify.com/episode/3ZF0zKX1m9MteD0fUiiekL?si=25d44c6b245b4d0e">link</a>  
 **Mindshop Knowledge Society Podcast** – discussion on AI ethics, feminism, social robotics and design justice <a href="https://www.youtube.com/watch?v=MdC5kKccYHc">link</a>  
 
 #### Talks: 
-**ACII International Conference on Affective Computing & Intelligent Interaction** – Keynote and panellist at workshop From Lab to Life, Glasgow, Scotland (2024)  
+**ACII International Conference on Affective Computing & Intelligent Interaction** – Keynote and panellist at workshop From Lab to Life, Glasgow, Scotland (2024). 
 **KTH Royal Institue of Technology** – Lecture on AI Ethics for energy engineering students, Stockholm, Sweden (2024)  
 **Raoul Wallenberg Academy Conference** – Lecture on AI Ethics, human rights and democracy and its implications for education, Stockholm, Sweden (2024)  
 **Mindshop Knowledge Society Cognitive Science Course** – Seminar and talk about cognitive science, AI and robotics (2023)  

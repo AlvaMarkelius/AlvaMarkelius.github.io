@@ -27,3 +27,5 @@ I am a PhD candidate and Cambridge Trust Scholar at the <a href="https://cambrid
 My main research interests are the ethics of social AI and robotics, specifically in the intersection of embodied robotics and large language models. I am also interested in embodied cognition, affect and emotion, gender and intersectionality, global AI narratives and AI hype.
 
 I obtained my MSt degree in AI Ethics & Society at the <a href= "http://lcfi.ac.uk/" >Leverhulme Centre for the Future of Intelligence</a> at the University of Cambridge while working as a research engineer at the <a href="https://dice-r-lab.com/">DICE - lab</a> at the Institution for Applied IT, University of Gothenburg. I received my bachelor degree in cognitive science at the University of Gothenburg and Seoul National University where I specialised in AI and robotics. 
+
+I am also Co-President of the <a href= "https://www.cupoloclub.com/" >Cambridge University Polo Club</a> and active as a competative player in the Cambridge team. 

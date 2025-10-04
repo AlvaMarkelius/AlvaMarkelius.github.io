@@ -13,8 +13,8 @@ nav_order: 5
 **Mindshop Knowledge Society Podcast** – discussion on AI ethics, feminism, social robotics and design justice <a href="https://www.youtube.com/watch?v=MdC5kKccYHc">link</a>  
 
 #### Talks: 
-**ACII International Conference on Affective Computing & Intelligent Interaction** – Keynote and panellist at workshop From Lab to Life, Glasgow, Scotland (2024). 
-**KTH Royal Institue of Technology** – Lecture on AI Ethics for energy engineering students, Stockholm, Sweden (2024)  
+**KTH Royal Institue of Technology** – Lecture on AI Ethics for energy engineering students, Stockholm, Sweden (2024 & 2025)  
+**ACII International Conference on Affective Computing & Intelligent Interaction** – Keynote and panellist at workshop From Lab to Life, Glasgow, Scotland (2024).  
 **Raoul Wallenberg Academy Conference** – Lecture on AI Ethics, human rights and democracy and its implications for education, Stockholm, Sweden (2024)  
 **Mindshop Knowledge Society Cognitive Science Course** – Seminar and talk about cognitive science, AI and robotics (2023)  
 **Cambridge AI Ethics Society x Centre for Human Inspired AI (CHIA) Early Career Community** – Early Career AI Ethics Workshop, Cambridge, UK (2023)  

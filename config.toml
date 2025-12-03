@@ -1,7 +1,7 @@
 params:
   profileMode:
     enabled: true
-    title: "<Title>" # optional default will be site title
+    title: "<Alva J. K. Markelius>" # optional default will be site title
     subtitle: "This is subtitle"
     imageUrl: "<image link>" # optional
     imageTitle: "<title of image as alt>" # optional
@@ -19,4 +19,3 @@ params:
     - name: "<platform 2>"
       url: "<link2>"
 
-      

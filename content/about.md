@@ -1,5 +1,6 @@
 ---
 title: "About"
+markup: "html"
 ---
 
 I am a PhD candidate and Cambridge Trust Scholar at the <a href="https://cambridge-afar.github.io/">Affective Intelligence and Robotics Laboratory (AFAR)</a>, Department of Computer Science & Technology, at the University of Cambridge and recipient of Top 100 Brilliant Women in AI Ethics™ award 2024. Furthermore, I am committee chair of the <a href="https://www.chia.cam.ac.uk/">Centre for Human Inspired AI</a> Early Career Community and student steward for <a href="https://betterimagesofai.org/" >Better Images of AI.</a>

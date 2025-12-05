@@ -14,16 +14,13 @@ pygmentscodefences  = true
 
 [[menu.main]]
     name = "About"
-    url  = "/about/"
-
+    url  = "\about\"
 [[menu.main]]
     name = "Publications"
-    url  = "/publications/"
-
+    url  = "\publications\"
 [[menu.main]]
     name = "Projects"
-    url  = "/projects/"
-
+    url  = "\projects\"
 [[menu.main]]
     name = "Resume"
-    url  = "/resume/"
+    url  = "\resume\"

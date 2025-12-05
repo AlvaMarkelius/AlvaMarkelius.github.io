@@ -12,8 +12,8 @@
   [[DOI]](https://doi.org/10.21203/rs.3.rs-7260703/v1)
 
 - Rutar, D., **Markelius, A.**, Cheke, L. G., & Hernández-Orallo, J. (2025). Cognitive Science-Inspired Evaluation of Core Capabilities for Object Understanding in AI.  
+*arXiv preprint arXiv:2503.16499*.  
   [[DOI]](https://doi.org/10.48550/arXiv.2503.21668)
-
 
 - Ravandi, B. S., Khan, I., **Markelius, A.**, Bergström, M., Gander, P., Erzin, E., & Lowe, R. (2025). Exploring task and social engagement in companion social robots: a comparative analysis of feedback types. *Advanced Robotics*, 1–16.  
   [[DOI]](https://doi.org/10.1080/01691864.2025.2526668)

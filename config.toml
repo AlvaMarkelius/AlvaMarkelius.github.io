@@ -1,6 +1,6 @@
 baseurl = "https://AlvaMarkelius.github.io/"
-title = "Black & Light"
-author = "David Hamp-Gonsalves"
+title = "Alva J. K. Markelius"
+author = "Alva Markelius"
 canonifyurls = true
 languagecode = "en"
 theme = "black-and-light"
@@ -8,16 +8,22 @@ theme = "black-and-light"
 pygmentsstyle       = "bw"
 pygmentscodefences  = true
 
-[params]
+[params]abo
   sitename = "Black & Light"
   disableWebFonts = false
 
 [[menu.main]]
     name = "About"
-    url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
+    url  = "/about/"
+
+[[menu.main]]
+    name = "Publications"
+    url  = "/publications/"
+
 [[menu.main]]
     name = "Projects"
-    url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
+    url  = "/projects/"
+
 [[menu.main]]
     name = "Resume"
-    url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
+    url  = "/resume/"

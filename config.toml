@@ -1,4 +1,4 @@
-baseurl = "https://AlvaMarkelius.github.io/"
+baseurl = "https://alvamarkelius.github.io/"
 title = "Alva J. K. Markelius"
 author = "Alva Markelius"
 canonifyurls = true
@@ -8,22 +8,26 @@ theme = "black-and-light"
 pygmentsstyle       = "bw"
 pygmentscodefences  = true
 
-[params]abo
+[params]
   sitename = "Black & Light"
   disableWebFonts = false
 
 [[menu.main]]
     name = "About"
-    url  = "\about\"
+    url  = "/about/"
+
 [[menu.main]]
     name = "Publications"
-    url  = "\publications\"
+    url  = "/publications/"
+
 [[menu.main]]
     name = "Projects"
-    url  = "\projects\"
+    url  = "/projects/"
+
 [[menu.main]]
     name = "Resume"
-    url  = "\resume\"
+    url  = "/resume/"
+
 [[menu.main]]
     name = "Polo"
-    url  = "\polo\"
+    url  = "/polo/"

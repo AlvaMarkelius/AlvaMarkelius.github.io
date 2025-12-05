@@ -24,3 +24,6 @@ pygmentscodefences  = true
 [[menu.main]]
     name = "Resume"
     url  = "\resume\"
+[[menu.main]]
+    name = "Polo"
+    url  = "\polo\"

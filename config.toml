@@ -12,22 +12,32 @@ pygmentscodefences  = true
   sitename = "Alva J. K. Markelius"
   disableWebFonts = false
 
-[[menu.main]]
+  [[menu.main]]
     name = "About"
-    url  = "/about/"
+    url = "/about/"
+    weight = 10
 
-[[menu.main]]
+  [[menu.main]]
     name = "Publications"
-    url  = "/publications/"
+    url = "/publications/"
+    weight = 20
 
-[[menu.main]]
+  [[menu.main]]
     name = "Projects"
-    url  = "/projects/"
+    url = "/projects/"
+    weight = 30
 
-[[menu.main]]
+  [[menu.main]]
     name = "Resume"
-    url  = "/resume/"
+    url = "/resume/"
+    weight = 40
 
-[[menu.main]]
+  [[menu.main]]
+    name = "Talks & Press"
+    url = "/talkspress/"
+    weight = 50
+
+  [[menu.main]]
     name = "Polo"
-    url  = "/polo/"
+    url = "/polo/"
+    weight = 60

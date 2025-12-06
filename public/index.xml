@@ -1,11 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Alva J. K. Markelius</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
-    <generator>Hugo -- 0.152.2</generator>
-    <language>en-us</language>
+    <description>Recent content on Alva J. K. Markelius</description>
+    <generator>Hugo</generator>
+    <language>en</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/polo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/polo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/</guid>
+      <description>&lt;h1 id=&#34;publications&#34;&gt;Publications&lt;/h1&gt;&#xA;&lt;h2 id=&#34;journal-papers&#34;&gt;Journal Papers&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Markelius, A.&lt;/strong&gt;, Bailey, J., Gibson, J. L., &amp;amp; Gunes, H. (2025). Stakeholder Perspectives on Whether and How Social Robots Can Support Mediation and Advocacy for Higher Education Students with Disabilities. &lt;em&gt;arXiv preprint arXiv:2503.16499&lt;/em&gt;.&lt;br&gt;&#xA;&lt;a href=&#34;https://arxiv.org/abs/2503.16499&#34;&gt;[arXiv]&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Markelius, A.&lt;/strong&gt; (2025). An Empirical Design Justice Approach to Identifying Ethical Considerations in the Intersection of Large Language Models and Social Robotics. In P. Hacker (Ed.), &lt;em&gt;Oxford Intersections: AI in Society&lt;/em&gt; (Oxford, online edn). Oxford Academic.&lt;br&gt;&#xA;&lt;a href=&#34;https://doi.org/10.1093/9780198945215.003.0013&#34;&gt;[DOI]&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>I am a PhD candidate and Cambridge Trust Scholar at the &lt;a href=&#34;https://cambridge-afar.github.io/&#34;&gt;Affective Intelligence and Robotics Laboratory (AFAR)&lt;/a&gt;, Department of Computer Science &amp; Technology, at the University of Cambridge and recipient of Top 100 Brilliant Women in AI Ethics™ award 2024. Furthermore, I am committee chair of the &lt;a href=&#34;https://www.chia.cam.ac.uk/&#34;&gt;Centre for Human Inspired AI&lt;/a&gt; Early Career Community and student steward for &lt;a href=&#34;https://betterimagesofai.org/&#34; &gt;Better Images of AI.&lt;/a&gt;  &#xA;&#xA;My main research interests are the ethics of social AI and robotics, specifically in the intersection of embodied robotics and large language models. I am also interested in embodied cognition, affect and emotion, gender and intersectionality, global AI narratives and AI hype.  &#xA;&#xA;I obtained my MSt degree in AI Ethics &amp; Society at the &lt;a href= &#34;http://lcfi.ac.uk/&#34; &gt;Leverhulme Centre for the Future of Intelligence&lt;/a&gt; at the University of Cambridge while working as a research engineer at the &lt;a href=&#34;https://dice-r-lab.com/&#34;&gt;DICE - lab&lt;/a&gt; at the Institution for Applied IT, University of Gothenburg. I received my bachelor degree in cognitive science at the University of Gothenburg and Seoul National University where I specialised in AI and robotics.  &#xA;&#xA;I am also Co-President of the &lt;a href= &#34;https://www.cupoloclub.com/&#34; &gt;Cambridge University Polo Club&lt;/a&gt; and active as a competative player in the Cambridge team.</description>
+    </item>
   </channel>
 </rss>

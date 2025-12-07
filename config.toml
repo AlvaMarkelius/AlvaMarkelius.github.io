@@ -27,10 +27,12 @@ pygmentscodefences  = true
     url = "/projects/"
     weight = 30
 
-  [[menu.main]]
-    name = "Resume"
-    url = "/resume/"
-    weight = 40
+[[menu.main]]
+  name = "Resume"
+  url = "/cv.pdf"        
+  weight = 40
+  target = "_blank"        
+  rel = "noopener"         
 
   [[menu.main]]
     name = "Talks & Press"
@@ -41,3 +43,4 @@ pygmentscodefences  = true
     name = "Polo"
     url = "/polo/"
     weight = 60
+

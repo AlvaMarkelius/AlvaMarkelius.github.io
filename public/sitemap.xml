@@ -8,13 +8,29 @@
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
   </url><url>
+    <loc>http://localhost:1313/projects/iaims/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/llmhri/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/micro/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/r4d/</loc>
+  </url><url>
     <loc>http://localhost:1313/publications/</loc>
   </url><url>
     <loc>http://localhost:1313/talkspress/</loc>
   </url><url>
+    <loc>http://localhost:1313/projects/actnow/</loc>
+  </url><url>
     <loc>http://localhost:1313/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/forte/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/mutual/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/sarp-dci/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>

@@ -30,6 +30,34 @@
     </item>
     <item>
       <title></title>
+      <link>http://localhost:1313/projects/iaims/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/iaims/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/projects/llmhri/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/llmhri/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/projects/micro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/micro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/projects/r4d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/r4d/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
       <link>http://localhost:1313/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publications/</guid>
@@ -41,6 +69,34 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/talkspress/</guid>
       <description>&lt;style&gt;&#xA;  #content {&#xA;    margin-bottom: 0 !important;&#xA;    padding-bottom: 0 !important;&#xA;  }&#xA;&lt;/style&gt;&#xA;&#xA;&lt;style&gt;&#xA;  #content {&#xA;    margin-top: 20 !important;&#xA;    padding-top: 0 !important;&#xA;  }&#xA;&lt;/style&gt;&#xA;&#xA;&lt;section id=&#34;content&#34;&gt;&#xA;  &lt;div style=&#34;max-width:800px; margin:0 auto; padding:0 0; line-height:1.7;&#34;&gt;&#xA;&#xA;    &lt;h1&gt;Talks &amp; Press&lt;/h1&gt;&#xA;&#xA;    &lt;h3&gt;Podcasts&lt;/h3&gt;&#xA;    &lt;ul&gt;&#xA;      &lt;li&gt;&lt;strong&gt;Sangre y Suerte Podcast&lt;/strong&gt; – The Inevitable SOCIAL ROBOTS That Are Changing the WORLD&lt;br&gt;&#xA;        &lt;a href=&#34;https://www.youtube.com/watch?v=m1-rgrRpc2I&#34; target=&#34;_blank&#34;&gt;YouTube ↗&lt;/a&gt;&lt;/li&gt;&#xA;      &lt;li&gt;&lt;strong&gt;Cambridge Student Podcast&lt;/strong&gt; – AI ethics, human rights and my work as President of Cambridge University AI Ethics Society&lt;br&gt;&#xA;        &lt;a href=&#34;https://open.spotify.com/episode/3ZF0zKX1m9MteD0fUiiekL?si=25d44c6b245b4d0e&#34; target=&#34;_blank&#34;&gt;Spotify ↗&lt;/a&gt;&lt;/li&gt;&#xA;      &lt;li&gt;&lt;strong&gt;Mindshop Knowledge Society Podcast&lt;/strong&gt; – AI ethics, feminism, social robotics and design justice&lt;br&gt;&#xA;        &lt;a href=&#34;https://www.youtube.com/watch?v=MdC5kKccYHc&#34; target=&#34;_blank&#34;&gt;YouTube ↗&lt;/a&gt;&lt;/li&gt;&#xA;    &lt;/ul&gt;&#xA;&#xA;    &lt;h3&gt;Invited Talks&lt;/h3&gt;&#xA;    &lt;ul&gt;&#xA;      &lt;li&gt;&lt;strong&gt;KTH Royal Institute of Technology&lt;/strong&gt; – AI Ethics for energy engineering students, Stockholm, Sweden (2024 &amp; 2025)&lt;/li&gt;&#xA;      &lt;li&gt;&lt;strong&gt;ACII 2024&lt;/strong&gt; – Keynote &amp; panellist, workshop &lt;em&gt;From Lab to Life&lt;/em&gt;, Glasgow, Scotland (2024)&lt;/li&gt;&#xA;      &lt;li&gt;&lt;strong&gt;Raoul Wallenberg Academy Conference&lt;/strong&gt; – AI Ethics, human rights and democracy in education, Stockholm, Sweden (2024)&lt;/li&gt;&#xA;      &lt;li&gt;&lt;strong&gt;Mindshop Knowledge Society&lt;/strong&gt; – Cognitive science, AI and robotics seminar (2023)&lt;/li&gt;&#xA;      &lt;li&gt;&lt;strong&gt;Cambridge AI Ethics Society × CHIA&lt;/strong&gt; – Early Career AI Ethics Workshop, Cambridge, uk (2023)&lt;/li&gt;&#xA;      &lt;li&gt;&lt;strong&gt;Centre for Human-Inspired AI (CHIA)&lt;/strong&gt; – &lt;em&gt;Social Humanoid Assistive Affective Robotics for Cognitive Interventions&lt;/em&gt;, Cambridge, UK (2023)&lt;/li&gt;&#xA;      &lt;li&gt;&lt;strong&gt;Sweco IT Sweden / Microsoft Share &amp; Evolve&lt;/strong&gt; – AI Ethics and Responsibility, Stockholm, Sweden (2023)&lt;/li&gt;&#xA;      &lt;li&gt;&lt;strong&gt;Oxbridge Robotics Summer School&lt;/strong&gt; – Robotics and Ethics, Cambridge, UK (2023)&lt;/li&gt;&#xA;      &lt;li&gt;&lt;strong&gt;Climate Parliament, Stockholm University&lt;/strong&gt; – AI, Climate Change and Science Fiction, Stockholm, Sweden (2018)&lt;/li&gt;&#xA;    &lt;/ul&gt;&#xA;&#xA;    &lt;h3&gt;Panels&lt;/h3&gt;&#xA;    &lt;ul&gt;&#xA;      &lt;li&gt;&lt;strong&gt;IEEE RO-MAN 2024&lt;/strong&gt; – &lt;em&gt;Interactive AI for Human-Centered Robotics&lt;/em&gt; workshop, Pasadena, USA (2024)&lt;/li&gt;&#xA;      &lt;li&gt;&lt;strong&gt;EQUALS EU&lt;/strong&gt; – &lt;em&gt;Whose Digital Future? Gender, Rights, Inclusion, and Exclusion&lt;/em&gt;, Geneva, Switzerland (2023)&lt;/li&gt;&#xA;      &lt;li&gt;&lt;strong&gt;Nordic China Startup Forum&lt;/strong&gt; – AI Trends, Business and Female Leadership (2022)&lt;/li&gt;&#xA;      &lt;li&gt;&lt;strong&gt;Science Festival Gothenburg&lt;/strong&gt; – AI, Robotics and Science Fiction (2020)&lt;/li&gt;&#xA;    &lt;/ul&gt;&#xA;&#xA;    &lt;h3&gt;Press &amp; Features&lt;/h3&gt;&#xA;    &lt;ul&gt;&#xA;      &lt;li&gt;&lt;strong&gt;EduAI book – Swedish Women in AI&lt;/strong&gt; – Featured interview (2025)&lt;br&gt;&#xA;        &lt;a href=&#34;https://eduai.se/inspiration&#34; target=&#34;_blank&#34;&gt;eduai.se ↗&lt;/a&gt;&lt;/li&gt;&#xA;      &lt;li&gt;&lt;strong&gt;ITV News Anglia&lt;/strong&gt; – Interview about social robot companions and robot pets (2025)&lt;/li&gt;&#xA;      &lt;li&gt;&lt;strong&gt;Cambridge Edition&lt;/strong&gt; – &lt;em&gt;Interview with a Robot&lt;/em&gt; (with Furhat), Cambridge Festival (2025)&lt;br&gt;&#xA;        &lt;a href=&#34;https://online.bright-publishing.com/view/90493998/20/&#34; target=&#34;_blank&#34;&gt;link ↗&lt;/a&gt;&lt;/li&gt;&#xA;      &lt;li&gt;&lt;strong&gt;Study With Me – Eleonora Svanberg&lt;/strong&gt; – Featured in book on mathematics and STEM (2024)&lt;br&gt;&#xA;        &lt;a href=&#34;https://www.bokus.com/bok/9789189733633/study-with-me-sa-bygger-du-matematiskt-sjalvfortroende/&#34; target=&#34;_blank&#34;&gt;bok.us ↗&lt;/a&gt;&lt;/li&gt;&#xA;      &lt;li&gt;&lt;strong&gt;#IamthefutureofAI&lt;/strong&gt; – Interview by Women in AI Ethics (2024)&lt;br&gt;&#xA;        &lt;a href=&#34;https://medium.com/women-in-ai-ethics/iamthefutureofai-alva-markelius-626257f51ca4&#34; target=&#34;_blank&#34;&gt;Medium ↗&lt;/a&gt;&lt;/li&gt;&#xA;      &lt;li&gt;&lt;strong&gt;Dagens Industri&lt;/strong&gt; – Interview after career stipend (Swedish, 2022)&lt;br&gt;&#xA;        &lt;a href=&#34;https://karriarforetagen.se/vinnare-av-karriarstipendiet-student/&#34; target=&#34;_blank&#34;&gt;link ↗&lt;/a&gt;&lt;/li&gt;&#xA;    &lt;/ul&gt;&#xA;&#xA;    &lt;div style=&#34;text-align:center; margin:80px 0 40px;&#34;&gt;&#xA;      &lt;img src=&#34;http://localhost:1313/ken.jpg&#34; alt=&#34;In Nairobi, Kenya as an AI Ethics delegate from Cambridge&#34; style=&#34;max-width:100%; width:460px; height:auto; border-radius:12px;&#34;&gt;&#xA;      &lt;p style=&#34;margin-top:14px; font-size:15px; color:inherit; font-style:italic;&#34;&gt;In Nairobi, Kenya as a AI Ethics delegate from Cambridge&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ACTNOW</title>
+      <link>http://localhost:1313/projects/actnow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/actnow/</guid>
+      <description>&lt;p&gt;&#xA;  The project developed and validated the 2nd generation of Danish company&#39;s &lt;a href=&#34;https://www.brain-plus.com/&#34;&gt;Brain+&lt;/a&gt; Computerized Cognitive Training which is being developed using a novel mechanism of action (Differential Outcomes Training) ultimately to be an intervention for people with Mild Cognitive Impairment. Differential Outcomes Training is based on mechanisms that utilize memory routes that are less affected in dementia, this method has proven effective for facilitating medium to high learning effects in people with Alzheimer&#39;s disease, both in the phases of Mild Cognitive Impairment and dementia.&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>FORTE Project</title>
+      <link>http://localhost:1313/projects/forte/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/forte/</guid>
+      <description>&lt;p&gt;&#xA;  I am part of the FORTE JNPD funded Neurodegenerative Disease Research Network as a research assistant and organiser. The aim of this project is to devise a methodological framework for using digital technology for digitized cognitive-psychosocial therapy and interventions for persons with MCI/dementia. Furthermore, these interventions are focused specifically on differential outcomes training and attentional control protocols.&#xA;&lt;/p&gt;&#xA;&#xA;&lt;p&gt;&#xA;  The project is run by members of the &lt;a href=&#34;https://dice-r-lab.com/&#34;&gt;DICE - lab&lt;/a&gt; at the Institution for Applied IT, University in Gothenburg, Sweden and in close collaboration with University of Almería, Spain. The final framework paper is called &#34;DigiDOP: A Framework for Applying Digital Technology to the Differential Outcomes Procedure (DOP) for Cognitive Interventions in Persons with Neurocognitive Disorders&#34;.&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Human/Robot Mutual Learning</title>
+      <link>http://localhost:1313/projects/mutual/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/mutual/</guid>
+      <description>&lt;p&gt;&#xA;  The research is a collaboration between the DICE-lab at University of Gothenburg (GU) and the ETIS lab at Cergy CY Université which was initiated via EUTOPIA&#39;s Undergraduate Research Support Scheme EURSS which was granted to Alva Markelius and Sofia Sjöberg spring 2022. The project was developed by the combination and collaboration of the GU expertise in Differential Outcomes Training (DOT) and human robot interaction, and the Cergy CY expertise in robot language development and robot/caregiver interaction. In June 2022 we visited the ETIS lab at Cergy to develop the mutual learning interaction setup with the robot Reachy (Pollen robotics). In August later that year the setup was piloted with 6 participants in Sweden.&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SARP-DCI</title>
+      <link>http://localhost:1313/projects/sarp-dci/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/sarp-dci/</guid>
+      <description>&lt;p&gt;&#xA;  This project is part of the DICE-lab at the Institution of Applied IT at the University of Gothenburg and looks to investigate the effects of a social robot partner, which adapts its behaviours and interactions based on a human partner&#39;s affective and emotional states, on the long-term viability (acceptance, adherence, motivation, efficacy) of digitised cognitive training therapy. In combination with interactions with a social robot and a cognitive training task, this project seeks to find out: (1) the optimal combination of multimodal signals that can best capture a user&#39;s affective/emotional states, particularly when interacting with these tools, (2) the effects of real-time adaptation of these technologies (robot interactions, characteristics of training tasks) based on these affective states on various behavioural and performance measures and (3) the viability of this approach in pre-clinical populations with Mild Cognitive Impairments.&#xA;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

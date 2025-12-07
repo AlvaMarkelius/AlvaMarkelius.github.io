@@ -124,8 +124,10 @@
 
   strong,
   b {
-    font-weight: 700 !important;
+    font-weight: 800 !important;
     font-style: normal !important;
+      text-shadow: 0.6px 0 0 currentColor;  
+
   }
 
 
@@ -167,7 +169,7 @@
     width:40%;
     height: 1px;
     background:#403c3b;
-    margin: 25px auto;
+    margin: 0;
   }
 
   h1 {
@@ -180,7 +182,7 @@
 
   h3 {
     font-size:22px;
-    margin-top:18px;
+    margin-top:0;
   }
 
   h1 a,h2 a,h3 a {
@@ -188,7 +190,7 @@
   }
 
   h1,h2 {
-    margin-top:28px;
+    margin-top:0;
   }
 
   #sub-header, .date {
@@ -218,15 +220,6 @@
     margin-left: 5px;
   }
 
- 
- 
- 
-  
- 
- 
- 
-
- 
 ul li {
   list-style-type: disc;      
   margin: 8px 0;
@@ -245,7 +238,7 @@ ul li {
   }
 
   #content h1,#content h2 {
-    margin-bottom:5px;
+    margin-bottom:0;
   }
 
   #content h2 {
@@ -253,7 +246,7 @@ ul li {
   }
 
   #content .entry-content {
-    margin-top:15px;
+    margin-top:0;
   }
 
   #content .date {
@@ -298,19 +291,9 @@ ul li {
     padding: 0 20px;
   }
 
-  #links {
-    display: flex;
-    justify-content: space-between;
-    margin: 50px 0 0 0;
-  }
-
-  #links :nth-child(1) {
-    margin-right:0.5em;;
-  }
-
-  #links :nth-child(2) {
-    margin-left:0.5em;;
-  }
+#links {
+  display: none;
+}
 
   #not-found {
     text-align: center;
@@ -341,7 +324,7 @@ ul li {
 
     #content {
       margin-top:0;
-      padding-top:50px;
+      padding-top:0;
       font-size:14px;
     }
 
@@ -375,7 +358,7 @@ ul li {
 
     #content {
       margin-top:0;
-      padding-top:20px;
+      padding-top:0;
       font-size:12px;
     }
 
@@ -414,15 +397,6 @@ ul li {
     }
   }
 
-#content strong,
-#content b {
-  font-weight: 700 !important;
-  font-style: normal !important;
-}
-
-strong {
-  color: #a5a5a5 !important;
-}
 
 
 
@@ -462,7 +436,7 @@ strong {
   <div class="entry-content">
     <style>
   #content {
-    margin-top: 0 !important;
+    margin-top: 20 !important;
     padding-top: 0 !important;
   }
 </style>
@@ -477,32 +451,26 @@ strong {
 <section id="content">
   <div style="max-width:700px; margin:0 auto; padding:0 0; line-height:1.7;">
 
-    <!-- PAGE HEADER -->
     <h1>Polo</h1>
 
-    <!-- INTRO TEXT -->
     <p>
       I am currently serving as Co-President of the <a href="https://www.cupoloclub.com/">Cambridge University Polo Club</a> 
       and train and compete actively across the UK and abroad. 
     </p>
 
-    <!-- IMAGE -->
     <div style="text-align:center; margin:40px 0;">
       <img src="http://localhost:1313/polo.jpg" alt="cupc" 
-           style="max-width:100%; width:460px; height:auto; border-radius:12px; 
-                  box-shadow:0 10px 40px rgba(0,0,0,0.25);">
-      <p style="margin-top:10px; font-size:15px; color:#777; font-style:italic;">
+           style="max-width:100%; width:460px; height:auto; border-radius:12px;">
+      <p style="margin-top:10px; font-size:15px; color:inherit; font-style:italic;">
         Summer varsity 2025, on Aurora
       </p>
     </div>
 
-    <!-- UPCOMING FIXTURES -->
     <h3>Upcoming Fixtures</h3>
     <ul>
       <li><strong>Invitational Tournament for Brain Tumor Charity</strong> – Dec 2025, Leadenham Polo Club</li>
     </ul>
 
-    <!-- PAST FIXTURES -->
     <h3>Past Fixtures</h3>
     <ul>
       <li><strong>CUPC Open Day Exhibition Match</strong> – Cambridge Polo Club (Oct 2025)</li>

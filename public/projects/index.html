@@ -124,8 +124,10 @@
 
   strong,
   b {
-    font-weight: 700 !important;
+    font-weight: 800 !important;
     font-style: normal !important;
+      text-shadow: 0.6px 0 0 currentColor;  
+
   }
 
 
@@ -167,7 +169,7 @@
     width:40%;
     height: 1px;
     background:#403c3b;
-    margin: 25px auto;
+    margin: 0;
   }
 
   h1 {
@@ -180,7 +182,7 @@
 
   h3 {
     font-size:22px;
-    margin-top:18px;
+    margin-top:0;
   }
 
   h1 a,h2 a,h3 a {
@@ -188,7 +190,7 @@
   }
 
   h1,h2 {
-    margin-top:28px;
+    margin-top:0;
   }
 
   #sub-header, .date {
@@ -218,15 +220,6 @@
     margin-left: 5px;
   }
 
- 
- 
- 
-  
- 
- 
- 
-
- 
 ul li {
   list-style-type: disc;      
   margin: 8px 0;
@@ -245,7 +238,7 @@ ul li {
   }
 
   #content h1,#content h2 {
-    margin-bottom:5px;
+    margin-bottom:0;
   }
 
   #content h2 {
@@ -253,7 +246,7 @@ ul li {
   }
 
   #content .entry-content {
-    margin-top:15px;
+    margin-top:0;
   }
 
   #content .date {
@@ -298,19 +291,9 @@ ul li {
     padding: 0 20px;
   }
 
-  #links {
-    display: flex;
-    justify-content: space-between;
-    margin: 50px 0 0 0;
-  }
-
-  #links :nth-child(1) {
-    margin-right:0.5em;;
-  }
-
-  #links :nth-child(2) {
-    margin-left:0.5em;;
-  }
+#links {
+  display: none;
+}
 
   #not-found {
     text-align: center;
@@ -341,7 +324,7 @@ ul li {
 
     #content {
       margin-top:0;
-      padding-top:50px;
+      padding-top:0;
       font-size:14px;
     }
 
@@ -375,7 +358,7 @@ ul li {
 
     #content {
       margin-top:0;
-      padding-top:20px;
+      padding-top:0;
       font-size:12px;
     }
 
@@ -414,15 +397,6 @@ ul li {
     }
   }
 
-#content strong,
-#content b {
-  font-weight: 700 !important;
-  font-style: normal !important;
-}
-
-strong {
-  color: #a5a5a5 !important;
-}
 
 
 
@@ -460,45 +434,33 @@ strong {
   
 
   <div class="entry-content">
-    
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Projects • Alva Markelius</title>
-</head>
-<body>
-
-  <style>
-  #content {
-    margin-top: 0 !important;
-    padding-top: 0 !important;
-  }
-</style>
-
-<style>
+    <style>
   #content {
     margin-bottom: 0 !important;
     padding-bottom: 0 !important;
   }
 </style>
 
+<style>
+  #content {
+    margin-top: 20 !important;
+    padding-top: 0 !important;
+  }
+</style>
 
 <section id="content">
-  <div style="max-width:700px; margin:0 auto; padding:60px 20px;">
+  <div style="max-width:700px; margin:0 auto; padding:0 0; line-height:1.7;">
 
     <h1>Projects</h1>
 
     <!-- CURRENT PROJECTS -->
-    <h2 style="margin:50px 0 30px; color:#666;">Current Projects</h2>
+    <h2 style="margin:50px 0 30px; color:inherit;">Current Projects</h2>
     <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(280px, 1fr)); gap:30px; margin-bottom:60px;">
       
 <a href="http://localhost:1313/projects/R4D/" style="text-decoration:none; color:inherit; display:block;">
   <div style="
     border-radius:12px;
     overflow:hidden;
-    box-shadow:0 8px 25px rgba(0,0,0,0.15);
-    transition:transform .2s, box-shadow .2s;
   ">
     <img src="http://localhost:1313/projects/pep.jpg" alt="R4D project" style="
       width:100%;
@@ -508,12 +470,12 @@ strong {
     ">
     <div style="
       padding:14px 16px 16px;   /* reduced top padding → smaller box */
-      background:#f8f8f8;
+      background:inherit;
     ">
       <h3 style="
         margin:0 0 6px;
         font-size:18px;
-        color:#1d1313;            /* proper dark text colour */
+        color:inherit;            /* proper dark text colour */
         font-weight:600;
       ">
         Social Robots & Disability
@@ -521,7 +483,7 @@ strong {
       <p style="
         margin:0;
         font-size:14.5px;
-        color:#555;
+        color:inherit;
         line-height:1.4;
       ">
         Stakeholder Perspectives on Whether and How Technology, AI and Robots Can Help for Mediation and Advocacy for Students with Disabilities
@@ -534,8 +496,6 @@ strong {
   <div style="
     border-radius:12px;
     overflow:hidden;
-    box-shadow:0 8px 25px rgba(0,0,0,0.15);
-    transition:transform .2s, box-shadow .2s;
   ">
     <img src="http://localhost:1313/projects/nao.jpg" alt="micro" style="
       width:100%;
@@ -545,12 +505,12 @@ strong {
     ">
     <div style="
       padding:14px 16px 16px;   /* reduced top padding → smaller box */
-      background:#f8f8f8;
+      background:inherit;
     ">
       <h3 style="
         margin:0 0 6px;
         font-size:18px;
-        color:#1d1313;            /* proper dark text colour */
+        color:inherit;            /* proper dark text colour */
         font-weight:600;
       ">
         MICRO
@@ -558,7 +518,7 @@ strong {
       <p style="
         margin:0;
         font-size:14.5px;
-        color:#555;
+        color:inherit;
         line-height:1.4;
       ">
         Measuring children’s wellbeing and mental health with social robots
@@ -570,15 +530,13 @@ strong {
     </div>
 
     <!-- PAST PROJECTS -->
-    <h2 style="margin:50px 0 30px; color:#666;">Past Projects</h2>
+    <h2 style="margin:50px 0 30px; color:inherit;">Past Projects</h2>
     <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(280px, 1fr)); gap:30px;">
    
 <a href="http://localhost:1313/projects/llmhri/" style="text-decoration:none; color:inherit; display:block;">
   <div style="
     border-radius:12px;
     overflow:hidden;
-    box-shadow:0 8px 25px rgba(0,0,0,0.15);
-    transition:transform .2s, box-shadow .2s;
   ">
     <img src="http://localhost:1313/projects/gpu.jpg" alt="sarp" style="
       width:100%;
@@ -588,12 +546,12 @@ strong {
     ">
     <div style="
       padding:14px 16px 16px;   /* reduced top padding → smaller box */
-      background:#f8f8f8;
+      background:inherit;
     ">
       <h3 style="
         margin:0 0 6px;
         font-size:18px;
-        color:#1d1313;            /* proper dark text colour */
+        color:inherit;            /* proper dark text colour */
         font-weight:600;
       ">
         LLM + HRI
@@ -601,7 +559,7 @@ strong {
       <p style="
         margin:0;
         font-size:14.5px;
-        color:#555;
+        color:inherit;
         line-height:1.4;
       ">
        Ethics of ebodying Large Language Models in Social Robotics
@@ -615,8 +573,6 @@ strong {
   <div style="
     border-radius:12px;
     overflow:hidden;
-    box-shadow:0 8px 25px rgba(0,0,0,0.15);
-    transition:transform .2s, box-shadow .2s;
   ">
     <img src="http://localhost:1313/projects/1.jpg" alt="sarp" style="
       width:100%;
@@ -626,12 +582,12 @@ strong {
     ">
     <div style="
       padding:14px 16px 16px;   /* reduced top padding → smaller box */
-      background:#f8f8f8;
+      background:inherit;
     ">
       <h3 style="
         margin:0 0 6px;
         font-size:18px;
-        color:#1d1313;            /* proper dark text colour */
+        color:inherit;            /* proper dark text colour */
         font-weight:600;
       ">
         AI affordance understanding
@@ -639,7 +595,7 @@ strong {
       <p style="
         margin:0;
         font-size:14.5px;
-        color:#555;
+        color:inherit;
         line-height:1.4;
       ">
        RECOG AI Robust Evaluation of Cognitive Capabilities and Generality in Artificial Intelligence
@@ -653,8 +609,6 @@ strong {
   <div style="
     border-radius:12px;
     overflow:hidden;
-    box-shadow:0 8px 25px rgba(0,0,0,0.15);
-    transition:transform .2s, box-shadow .2s;
   ">
     <img src="http://localhost:1313/projects/11.jpg" alt="sarp" style="
       width:100%;
@@ -664,12 +618,12 @@ strong {
     ">
     <div style="
       padding:14px 16px 16px;   /* reduced top padding → smaller box */
-      background:#f8f8f8;
+      background:inherit;
     ">
       <h3 style="
         margin:0 0 6px;
         font-size:18px;
-        color:#1d1313;            /* proper dark text colour */
+        color:inherit;            /* proper dark text colour */
         font-weight:600;
       ">
         I-AIMS
@@ -677,7 +631,7 @@ strong {
       <p style="
         margin:0;
         font-size:14.5px;
-        color:#555;
+        color:inherit;
         line-height:1.4;
       ">
        Impairment-Aware Intelligent Mobility System
@@ -691,8 +645,6 @@ strong {
   <div style="
     border-radius:12px;
     overflow:hidden;
-    box-shadow:0 8px 25px rgba(0,0,0,0.15);
-    transition:transform .2s, box-shadow .2s;
   ">
     <img src="http://localhost:1313/projects/plan.jpg" alt="sarp" style="
       width:100%;
@@ -702,12 +654,12 @@ strong {
     ">
     <div style="
       padding:14px 16px 16px;   /* reduced top padding → smaller box */
-      background:#f8f8f8;
+      background:inherit;
     ">
       <h3 style="
         margin:0 0 6px;
         font-size:18px;
-        color:#1d1313;            /* proper dark text colour */
+        color:inherit;            /* proper dark text colour */
         font-weight:600;
       ">
         ACTNOW ACTTDCS
@@ -715,7 +667,7 @@ strong {
       <p style="
         margin:0;
         font-size:14.5px;
-        color:#555;
+        color:inherit;
         line-height:1.4;
       ">
        Attentional Control Training and Transcranial Direct Current Stimulation to Treat Dementia
@@ -728,8 +680,6 @@ strong {
   <div style="
     border-radius:12px;
     overflow:hidden;
-    box-shadow:0 8px 25px rgba(0,0,0,0.15);
-    transition:transform .2s, box-shadow .2s;
   ">
     <img src="http://localhost:1313/projects/7.jpg" alt="sarp" style="
       width:100%;
@@ -739,12 +689,12 @@ strong {
     ">
     <div style="
       padding:14px 16px 16px;   /* reduced top padding → smaller box */
-      background:#f8f8f8;
+      background:inherit;
     ">
       <h3 style="
         margin:0 0 6px;
         font-size:18px;
-        color:#1d1313;            /* proper dark text colour */
+        color:inherit;            /* proper dark text colour */
         font-weight:600;
       ">
         Human/robot mutual learning
@@ -752,7 +702,7 @@ strong {
       <p style="
         margin:0;
         font-size:14.5px;
-        color:#555;
+        color:inherit;
         line-height:1.4;
       ">
         Developmental robotics, mutual learning and differential outcomes training
@@ -765,8 +715,6 @@ strong {
   <div style="
     border-radius:12px;
     overflow:hidden;
-    box-shadow:0 8px 25px rgba(0,0,0,0.15);
-    transition:transform .2s, box-shadow .2s;
   ">
     <img src="http://localhost:1313/projects/3.jpg" alt="sarp" style="
       width:100%;
@@ -776,12 +724,12 @@ strong {
     ">
     <div style="
       padding:14px 16px 16px;   /* reduced top padding → smaller box */
-      background:#f8f8f8;
+      background:inherit;
     ">
       <h3 style="
         margin:0 0 6px;
         font-size:18px;
-        color:#1d1313;            /* proper dark text colour */
+        color:inherit;            /* proper dark text colour */
         font-weight:600;
       ">
         SARP-DCI
@@ -789,7 +737,7 @@ strong {
       <p style="
         margin:0;
         font-size:14.5px;
-        color:#555;
+        color:inherit;
         line-height:1.4;
       ">
         Socially Affective Robots for Digitized Cognitive Interventions
@@ -803,8 +751,6 @@ strong {
   <div style="
     border-radius:12px;
     overflow:hidden;
-    box-shadow:0 8px 25px rgba(0,0,0,0.15);
-    transition:transform .2s, box-shadow .2s;
   ">
     <img src="http://localhost:1313/projects/12.jpg" alt="forte" style="
       width:100%;
@@ -814,12 +760,12 @@ strong {
     ">
     <div style="
       padding:14px 16px 16px;   /* reduced top padding → smaller box */
-      background:#f8f8f8;
+      background:inherit;
     ">
       <h3 style="
         margin:0 0 6px;
         font-size:18px;
-        color:#1d1313;            /* proper dark text colour */
+        color:inherit;            /* proper dark text colour */
         font-weight:600;
       ">
         Forte JNPD
@@ -827,7 +773,7 @@ strong {
       <p style="
         margin:0;
         font-size:14.5px;
-        color:#555;
+        color:inherit;
         line-height:1.4;
       ">
         Neurodegenerative Disease Research Network

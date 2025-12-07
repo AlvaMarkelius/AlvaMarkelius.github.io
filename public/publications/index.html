@@ -124,8 +124,10 @@
 
   strong,
   b {
-    font-weight: 700 !important;
+    font-weight: 800 !important;
     font-style: normal !important;
+      text-shadow: 0.6px 0 0 currentColor;  
+
   }
 
 
@@ -167,7 +169,7 @@
     width:40%;
     height: 1px;
     background:#403c3b;
-    margin: 25px auto;
+    margin: 0;
   }
 
   h1 {
@@ -180,7 +182,7 @@
 
   h3 {
     font-size:22px;
-    margin-top:18px;
+    margin-top:0;
   }
 
   h1 a,h2 a,h3 a {
@@ -188,7 +190,7 @@
   }
 
   h1,h2 {
-    margin-top:28px;
+    margin-top:0;
   }
 
   #sub-header, .date {
@@ -218,15 +220,6 @@
     margin-left: 5px;
   }
 
- 
- 
- 
-  
- 
- 
- 
-
- 
 ul li {
   list-style-type: disc;      
   margin: 8px 0;
@@ -245,7 +238,7 @@ ul li {
   }
 
   #content h1,#content h2 {
-    margin-bottom:5px;
+    margin-bottom:0;
   }
 
   #content h2 {
@@ -253,7 +246,7 @@ ul li {
   }
 
   #content .entry-content {
-    margin-top:15px;
+    margin-top:0;
   }
 
   #content .date {
@@ -298,19 +291,9 @@ ul li {
     padding: 0 20px;
   }
 
-  #links {
-    display: flex;
-    justify-content: space-between;
-    margin: 50px 0 0 0;
-  }
-
-  #links :nth-child(1) {
-    margin-right:0.5em;;
-  }
-
-  #links :nth-child(2) {
-    margin-left:0.5em;;
-  }
+#links {
+  display: none;
+}
 
   #not-found {
     text-align: center;
@@ -341,7 +324,7 @@ ul li {
 
     #content {
       margin-top:0;
-      padding-top:50px;
+      padding-top:0;
       font-size:14px;
     }
 
@@ -375,7 +358,7 @@ ul li {
 
     #content {
       margin-top:0;
-      padding-top:20px;
+      padding-top:0;
       font-size:12px;
     }
 
@@ -414,15 +397,6 @@ ul li {
     }
   }
 
-#content strong,
-#content b {
-  font-weight: 700 !important;
-  font-style: normal !important;
-}
-
-strong {
-  color: #a5a5a5 !important;
-}
 
 
 
@@ -460,48 +434,33 @@ strong {
   
 
   <div class="entry-content">
-    <!DOCTYPE html>
-<html lang="en">
+    <style>
+  #content {
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+  }
+</style>
+
+<style>
+  #content {
+    margin-top: 20 !important;
+    padding-top: 0 !important;
+  }
+</style>
+
 <head>
   <meta charset="utf-8">
   <title>Publications • Alva Markelius</title>
-
-  <style>
-
-    /* Ensure strong text is bold (your name) */
-    strong {
-      font-weight: 700 !important;
-      font-style: normal !important;
-    }
-
-    /* Compact publication list styling */
-    #content ul li {
-      margin-bottom: 18px !important;
-      line-height: 1.55;
-    }
-
-    #content ul li a {
-      margin-left: 6px;
-    }
-
-    /* Remove extra spacing */
-    #content {
-      margin-top: 0 !important;
-      padding-top: 0 !important;
-      margin-bottom: 0 !important;
-      padding-bottom: 0 !important;
-    }
-  </style>
 </head>
 
 <body>
 
 <section id="content">
-  <div style="max-width:700px; margin:0 auto; padding:60px 20px; line-height:1.65;">
+  <div style="max-width:700px; margin:0 auto; padding:0 0; line-height:1.7;">
 
     <h1>Publications</h1>
 
-    <h2 style="margin:50px 0 20px; color:#666; border-bottom:2px solid #666; padding-bottom:8px;">Journal Papers</h2>
+    <h2 style="margin:50px 0 20px; color: inherit; border-bottom:2px solid #666; padding-bottom:8px;">Journal Papers</h2>
 
     <ul style="list-style:none; padding-left:0;">
       <li>
@@ -561,7 +520,7 @@ strong {
       </li>
     </ul>
 
-    <h2 style="margin:70px 0 20px; color:#666; border-bottom:2px solid #666; padding-bottom:8px;">Conference Proceedings</h2>
+    <h2 style="margin:70px 0 20px; color:inherit; border-bottom:2px solid #666; padding-bottom:8px;">Conference Proceedings</h2>
 
     <ul style="list-style:none; padding-left:0;">
       <li>
@@ -606,13 +565,13 @@ strong {
     </ul>
 
 
-    <h2 style="margin:70px 0 20px; color:#666; border-bottom:2px solid #666; padding-bottom:8px;">
+    <h2 style="margin:70px 0 20px; color:inherit; border-bottom:2px solid #666; padding-bottom:8px;">
   Peer-Reviewed Workshop Contributions
 </h2>
 <ul style="list-style:none; padding-left:0;">
 
 
-<li style="margin-bottom:28px; line-height:1.5;">
+<li>
     Cheong, J.*, Doğan, F. I.*, <strong>Markelius, A.</strong>*, Cross, E. S., Eyssel, F., Castellano, G., & Gunes, H. (2026). 
     Equitable Robotics for Wellbeing (EqRoW). 
     <em>Companion of ACM/IEEE International Conference on Human-Robot Interaction (HRI)</em>, Edinburgh, Scotland, UK. 
@@ -620,29 +579,28 @@ strong {
     <small>* Equal contribution</small>
 </li>
 
-
-  <li style="margin-bottom:28px; line-height:1.5;">
+  <li>
     Brady, D., <strong>Markelius, A.</strong>, Erez, T., Tanqueray, L., Lee, Y. K., & Hahn, S. (2025). 
     Robot Learning Done Right: Responsibly Developing Foundation Models for Robotics. 
     <em>Workshop at Conference on Robot Learning (CoRL) & Humanoids 2025</em>, Seoul, South Korea. 
     <a href="https://sites.google.com/cam.ac.uk/robotlearningdoneright" target="_blank" >[Link]</a>
   </li>
 
-  <li style="margin-bottom:28px; line-height:1.5;">
+  <li>
     Laban, G., Hough, J., Lee, M., <strong>Markelius, A.</strong>, Foster, M. E., Stuart-Smith, J., & Ahmad, M. I. (2025). 
     Bias and Fairness in Conversational User Interfaces. 
     <em>Workshop at ACM International Conference on Conversational User Interfaces</em>, Waterloo, Canada.
     <a href="https://sites.google.com/view/cuibnf2025/home" target="_blank" >[Link]</a>
   </li>
 
-  <li style="margin-bottom:28px; line-height:1.5;">
+  <li>
     <strong>Markelius, A.</strong>, Tanqueray, L., Lee, Y. K., Jung, Y., Lowe, R., & Larsson, S. (2024). 
     Large Language Models in the RoMan Age: Exploring Implications on Design, Ethics and Social Impact. 
     <em>Workshop at IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)</em>, Pasadena, US. 
     <a href="https://sites.google.com/view/llmra/start" target="_blank">[Link]</a>
   </li>
 
-  <li style="margin-bottom:28px; line-height:1.5;">
+  <li>
     Khan, I., <strong>Markelius, A.</strong>, & Lowe, R. (2023). 
     Co-Researching with Humans-in-the-Loop: Using participatory methods, research and co-design in HRI. 
     <em>Workshop at International Conference on Social Robotics (ICSR)</em>, Doha, Qatar.

@@ -2,38 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://alvamarkelius.github.io/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>https://alvamarkelius.github.io/polo/</loc>
+    <loc>http://localhost:1313/polo/</loc>
   </url><url>
-    <loc>https://alvamarkelius.github.io/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
   </url><url>
-    <loc>https://alvamarkelius.github.io/publications/</loc>
+    <loc>http://localhost:1313/publications/</loc>
   </url><url>
-    <loc>https://alvamarkelius.github.io/talkspress/</loc>
+    <loc>http://localhost:1313/talkspress/</loc>
   </url><url>
-    <loc>https://alvamarkelius.github.io/projects/actnow/</loc>
+    <loc>http://localhost:1313/projects/actnow/</loc>
   </url><url>
-    <loc>https://alvamarkelius.github.io/projects/recogai/</loc>
+    <loc>http://localhost:1313/projects/recogai/</loc>
   </url><url>
-    <loc>https://alvamarkelius.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>https://alvamarkelius.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://alvamarkelius.github.io/projects/forte/</loc>
+    <loc>http://localhost:1313/projects/forte/</loc>
   </url><url>
-    <loc>https://alvamarkelius.github.io/projects/mutual/</loc>
+    <loc>http://localhost:1313/projects/mutual/</loc>
   </url><url>
-    <loc>https://alvamarkelius.github.io/projects/iaims/</loc>
+    <loc>http://localhost:1313/projects/iaims/</loc>
   </url><url>
-    <loc>https://alvamarkelius.github.io/projects/llmhri/</loc>
+    <loc>http://localhost:1313/projects/llmhri/</loc>
   </url><url>
-    <loc>https://alvamarkelius.github.io/projects/micro/</loc>
+    <loc>http://localhost:1313/projects/micro/</loc>
   </url><url>
-    <loc>https://alvamarkelius.github.io/projects/sarp-dci/</loc>
+    <loc>http://localhost:1313/projects/sarp-dci/</loc>
   </url><url>
-    <loc>https://alvamarkelius.github.io/projects/r4d/</loc>
+    <loc>http://localhost:1313/projects/disa/</loc>
   </url><url>
-    <loc>https://alvamarkelius.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

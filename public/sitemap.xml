@@ -2,36 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://alvamarkelius.github.io/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/polo/</loc>
+    <loc>https://alvamarkelius.github.io/polo/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://alvamarkelius.github.io/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/iaims/</loc>
+    <loc>https://alvamarkelius.github.io/publications/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/llmhri/</loc>
+    <loc>https://alvamarkelius.github.io/talkspress/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/micro/</loc>
+    <loc>https://alvamarkelius.github.io/projects/actnow/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/r4d/</loc>
+    <loc>https://alvamarkelius.github.io/projects/recogai/</loc>
   </url><url>
-    <loc>http://localhost:1313/publications/</loc>
+    <loc>https://alvamarkelius.github.io/</loc>
   </url><url>
-    <loc>http://localhost:1313/talkspress/</loc>
+    <loc>https://alvamarkelius.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/actnow/</loc>
+    <loc>https://alvamarkelius.github.io/projects/forte/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://alvamarkelius.github.io/projects/mutual/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://alvamarkelius.github.io/projects/iaims/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/forte/</loc>
+    <loc>https://alvamarkelius.github.io/projects/llmhri/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/mutual/</loc>
+    <loc>https://alvamarkelius.github.io/projects/micro/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/sarp-dci/</loc>
+    <loc>https://alvamarkelius.github.io/projects/sarp-dci/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://alvamarkelius.github.io/projects/r4d/</loc>
+  </url><url>
+    <loc>https://alvamarkelius.github.io/tags/</loc>
   </url>
 </urlset>

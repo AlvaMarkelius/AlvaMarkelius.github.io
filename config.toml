@@ -40,6 +40,11 @@ pygmentscodefences  = true
     weight = 50
 
   [[menu.main]]
+    name = "Teaching"
+    url = "/teaching/"
+    weight = 55
+
+  [[menu.main]]
     name = "Polo"
     url = "/polo/"
     weight = 60

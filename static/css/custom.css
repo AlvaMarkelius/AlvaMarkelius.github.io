@@ -1,0 +1,20 @@
+/* Menu: keep each item on one line so all seven fit on desktop */
+#nav ul li {
+  white-space: nowrap;
+  padding: 0 14px;
+}
+
+/* Phones and tablets: let the menu wrap onto a second row instead of overflowing sideways */
+@media (max-width: 750px) {
+  section#nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    row-gap: 4px;
+  }
+  #nav ul li {
+    display: block;
+    margin: 0;
+    padding: 0 10px;
+  }
+}

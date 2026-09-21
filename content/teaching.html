@@ -1,0 +1,171 @@
+<!--
+  Teaching page: save as content/teaching.html (Hugo serves it at /teaching/).
+  To add an entry, copy a <div class="teach-item"> block and edit the text.
+  The grey line under the institution (<span class="teach-role">) is optional.
+-->
+
+<style>
+  #content {
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+    padding-top: 0 !important;
+  }
+
+  /* ---------- Teaching page ---------- */
+  .teach-section { margin-top: 2.4em; }
+  .teach-section:first-of-type { margin-top: 1.1em; }
+  .teach-section h3 { margin: 0 0 0.8em; }
+
+  /* One entry: institution on the left, courses on the right */
+  .teach-item {
+    display: grid;
+    grid-template-columns: 13.25em minmax(0, 1fr);
+    column-gap: 1.75em;
+    align-items: baseline;
+    margin-bottom: 1.4em;
+  }
+  .teach-item:last-child { margin-bottom: 0; }
+  .teach-item p { margin: 0; }
+
+  .teach-item .teach-where {
+    font-family: "Old Standard TT", serif;
+    font-size: 1.1em;
+    line-height: 1.4;
+  }
+  .teach-role {
+    display: block;
+    margin-top: 0.3em;
+    font-family: "Open Sans", "Myriad Pro", Myriad, sans-serif;
+    font-size: calc(0.9em / 1.1); /* same size as the notes */
+    line-height: 1.45;
+  }
+  .teach-item .teach-course { line-height: 1.5; }
+  .teach-item .teach-course + .teach-course { margin-top: 0.25em; }
+  .teach-item .teach-note {
+    margin-top: 0.45em;
+    font-size: 0.9em;
+    line-height: 1.55;
+  }
+
+  .teach-role, .teach-note { color: #5d5857; }
+  .teach-note * { color: inherit; }
+
+  .teach-course a {
+    text-underline-offset: 0.2em;
+    text-decoration-thickness: 1px;
+  }
+  .teaching a:focus-visible {
+    outline: 2px solid currentColor;
+    outline-offset: 2px;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    .teach-role, .teach-note { color: #b4afae; }
+  }
+
+  /* Smaller screens: keep section headings smaller than the page title */
+  @media (max-width: 750px) {
+    .teach-section h3 { font-size: 1.3em; }
+  }
+
+  /* Phones: stack institution above courses */
+  @media (max-width: 560px) {
+    .teach-item {
+      grid-template-columns: minmax(0, 1fr);
+      row-gap: 0.35em;
+    }
+    .teach-item .teach-note { font-size: 0.95em; }
+    .teach-role { font-size: calc(0.95em / 1.1); }
+  }
+</style>
+
+<section id="content">
+  <div class="teaching" style="max-width:800px; margin:0 auto; padding:0 0; line-height:1.7;">
+
+    <h1>Teaching</h1>
+
+    <section class="teach-section">
+      <h3>Professional Education</h3>
+
+      <div class="teach-item">
+        <p class="teach-where">Cambridge Advance Online
+          <span class="teach-role">Lead Programme Tutor</span></p>
+        <div>
+          <p class="teach-course"><a href="https://advanceonline.cam.ac.uk/courses/the-ai-leader-from-strategy-to-transformation" target="_blank" rel="noopener">The AI Leader: From Strategy to Transformation ↗</a></p>
+          <p class="teach-note">For senior executives, AI startup founders, entrepreneurs, and technology professionals seeking to incorporate AI into their business models to unlock new growth opportunities and lead the technological transformation.</p>
+        </div>
+      </div>
+
+      <div class="teach-item">
+        <p class="teach-where">Cambridge Advance Online
+          <span class="teach-role">Lead Academic Tutor</span></p>
+        <div>
+          <p class="teach-course"><a href="https://advanceonline.cam.ac.uk/courses/generative-ai-in-business" target="_blank" rel="noopener">Generative AI in Business ↗</a></p>
+          <p class="teach-course"><a href="https://advanceonline.cam.ac.uk/courses/human-computer-interaction-hci-for-ai-systems-design" target="_blank" rel="noopener">Human–Computer Interaction for AI Systems Design ↗</a></p>
+          <p class="teach-note">Tutor-led online courses for professionals</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="teach-section">
+      <h3>Supervision</h3>
+
+      <div class="teach-item">
+        <p class="teach-where">University of Cambridge</p>
+        <div>
+          <p class="teach-course">Machine Learning and Real-world Data</p>
+          <p class="teach-course">Interaction Design</p>
+          <p class="teach-course">Further Human–Computer Interaction</p>
+          <p class="teach-note">First- and second-year undergraduates in Computer Science</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="teach-section">
+      <h3>Lecturing</h3>
+
+      <div class="teach-item">
+        <p class="teach-where">KTH Royal Institute of Technology</p>
+        <div>
+          <p class="teach-course">AI Ethics for AI in Sustainable Energy Engineering</p>
+          <p class="teach-note">Guest lectures for energy engineering students in courses MJ2507 and MJ2528, Stockholm (2024, 2025 &amp; 2026)</p>
+        </div>
+      </div>
+
+      <div class="teach-item">
+        <p class="teach-where">University of Gothenburg</p>
+        <div>
+          <p class="teach-course">Machine Learning and Data Analysis</p>
+          <p class="teach-course">Explainable AI</p>
+          <p class="teach-note">Second- and third-year undergraduates in Cognitive Science, Systems and Communication</p>
+        </div>
+      </div>
+
+      <div class="teach-item">
+        <p class="teach-where">EUTOPIA</p>
+        <div>
+          <p class="teach-course">Mechanism of Emotion</p>
+          <p class="teach-course">Affective Computing</p>
+          <p class="teach-note">Undergraduates in Psychology and Cognitive Science</p>
+        </div>
+      </div>
+
+      <div class="teach-item">
+        <p class="teach-where">Cambridge Women@CL</p>
+        <div>
+          <p class="teach-course">Model Generalisation and Fairness</p>
+          <p class="teach-note">GirlsWhoML lecture, Cambridge (2026)</p>
+        </div>
+      </div>
+
+      <div class="teach-item">
+        <p class="teach-where">Raoul Wallenberg Academy</p>
+        <div>
+          <p class="teach-course">AI Ethics, Human Rights and Democracy</p>
+          <p class="teach-note">Conference lecture, Stockholm (2024)</p>
+        </div>
+      </div>
+    </section>
+
+  </div>
+</section>
